@@ -1,0 +1,18 @@
+﻿@model Olx.Models.AdModel
+<div style="width: 626px; border: solid thin black; height: 134px; padding: 8px;font-weight:bold;">
+    <div>
+      @Model.Title <span style="float: right;">Posted on @Model.PosdtedOn.ToShortDateString()</span>
+    </div>
+    <div style="min-height: 89px; border-top: solid thin black; border-bottom: solid thin black;">
+        <span>
+            @Model.Description
+        </span>
+        <img src="@Url.Action("image", "Ad", new { adid = Model.AdId })" style="height: 83px;width: 91px;float: right;">
+    </div>
+    <div>
+        @Html.ActionLink("Contact Owner", "Contact", "Ad", new { adid = Model.AdId }, null)
+        <span style="float: right;">
+            @Html.ActionLink("View Details", "Details","Ad", new { adid = Model.AdId },null)
+        </span>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "inbox";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model IEnumerable<DataLayer.DTO.Message>
+<h2>Pending Messages</h2>
+<br /><nr />
+@foreach (var msg in Model)
+{
+    @Html.Partial("Message", msg);
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

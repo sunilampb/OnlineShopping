@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "adposted";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ad posted successfully</h2>
+<p>
+    Thank  you. Ad has been posted. <br /><br />
+    @Html.ActionLink("View my AD", "show", "ad", new { adid = @ViewBag.AdId }, null);
+</p>

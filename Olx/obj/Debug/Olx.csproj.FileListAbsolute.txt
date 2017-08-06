@@ -1,0 +1,154 @@
+C:\Olx\AuctionGuru\Olx\bin\Olx.dll
+C:\Olx\AuctionGuru\Olx\bin\Olx.pdb
+C:\Olx\AuctionGuru\Olx\bin\Antlr3.Runtime.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.dll
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Olx\AuctionGuru\Olx\bin\EntityFramework.dll
+C:\Olx\AuctionGuru\Olx\bin\Microsoft.Web.Infrastructure.dll
+C:\Olx\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Olx\AuctionGuru\Olx\bin\Newtonsoft.Json.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Net.Http.Formatting.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Helpers.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Http.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Http.WebHost.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Mvc.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Optimization.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Razor.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.dll
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.dll
+C:\Olx\AuctionGuru\Olx\bin\WebGrease.dll
+C:\Olx\AuctionGuru\Olx\bin\WebMatrix.Data.dll
+C:\Olx\AuctionGuru\Olx\bin\WebMatrix.WebData.dll
+C:\Olx\AuctionGuru\Olx\bin\EntityFramework.xml
+C:\Olx\AuctionGuru\Olx\bin\Newtonsoft.Json.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Net.Http.Formatting.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Helpers.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Http.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Http.WebHost.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Mvc.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.Razor.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.xml
+C:\Olx\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.xml
+C:\Olx\AuctionGuru\Olx\bin\WebMatrix.Data.xml
+C:\Olx\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Olx\AuctionGuru\Olx\bin\WebMatrix.WebData.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.xml
+C:\Olx\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Olx\AuctionGuru\Olx\obj\Debug\Olx.csprojResolveAssemblyReference.cache
+C:\Olx\AuctionGuru\Olx\obj\Debug\Olx.dll
+C:\Olx\AuctionGuru\Olx\obj\Debug\Olx.pdb
+C:\Olx\AuctionGuru\Olx\bin\DataLayer.dll
+C:\Olx\AuctionGuru\Olx\bin\DataLayer.pdb
+D:\ajay\AuctionGuru\Olx\bin\Olx.dll
+D:\ajay\AuctionGuru\Olx\bin\Olx.pdb
+D:\ajay\AuctionGuru\Olx\bin\Antlr3.Runtime.dll
+D:\ajay\AuctionGuru\Olx\bin\DataLayer.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.dll
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ajay\AuctionGuru\Olx\bin\EntityFramework.dll
+D:\ajay\AuctionGuru\Olx\bin\Microsoft.Web.Infrastructure.dll
+D:\ajay\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\ajay\AuctionGuru\Olx\bin\Newtonsoft.Json.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Net.Http.Formatting.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Helpers.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Http.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Http.WebHost.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Mvc.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Optimization.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Razor.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.dll
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.dll
+D:\ajay\AuctionGuru\Olx\bin\WebGrease.dll
+D:\ajay\AuctionGuru\Olx\bin\WebMatrix.Data.dll
+D:\ajay\AuctionGuru\Olx\bin\WebMatrix.WebData.dll
+D:\ajay\AuctionGuru\Olx\bin\DataLayer.pdb
+D:\ajay\AuctionGuru\Olx\bin\EntityFramework.xml
+D:\ajay\AuctionGuru\Olx\bin\Newtonsoft.Json.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Net.Http.Formatting.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Helpers.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Http.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Http.WebHost.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Mvc.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.Razor.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.xml
+D:\ajay\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.xml
+D:\ajay\AuctionGuru\Olx\bin\WebMatrix.Data.xml
+D:\ajay\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\ajay\AuctionGuru\Olx\bin\WebMatrix.WebData.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.xml
+D:\ajay\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ajay\AuctionGuru\Olx\obj\Debug\Olx.csprojResolveAssemblyReference.cache
+D:\ajay\AuctionGuru\Olx\obj\Debug\Olx.dll
+D:\ajay\AuctionGuru\Olx\obj\Debug\Olx.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Olx.dll.config
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Olx.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Olx.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Antlr3.Runtime.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DataLayer.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\EntityFramework.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Newtonsoft.Json.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Net.Http.Formatting.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Helpers.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Http.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Http.WebHost.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Mvc.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Optimization.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Razor.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\WebGrease.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\WebMatrix.Data.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\WebMatrix.WebData.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DataLayer.pdb
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\EntityFramework.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Newtonsoft.Json.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Net.Http.Formatting.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Helpers.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Http.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Http.WebHost.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Mvc.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.Razor.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\WebMatrix.Data.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\WebMatrix.WebData.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\obj\Debug\Olx.csprojResolveAssemblyReference.cache
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\obj\Debug\Olx.dll
+C:\Users\Aditya\Desktop\Asp . Net proj\AuctionGuru\AuctionGuru\Olx\obj\Debug\Olx.pdb

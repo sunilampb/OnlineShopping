@@ -1,0 +1,70 @@
+﻿@model Olx.Models.AdModel
+
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.CategoryName > @Model.Title</h2>
+<style>
+    .display-label {
+        font-weight:bold;
+        margin-top:5px;
+    }
+</style>
+<fieldset>
+    <legend>AdModel</legend>
+    <div>
+        <table style="font-size:8pt;">
+            <tr>
+                <td>@Model.City</td>
+                <td>@Model.Locality</td>
+                <td>Posted on @Model.PosdtedOn.ToShortDateString()</td>
+                <td>Valid till @Model.ValidTill.ToShortDateString()</td>
+            </tr>
+        </table>
+    </div>
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Description)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.PostedBy)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PostedBy)
+    </div>
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ContactNumber)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ContactNumber)
+    </div>
+    <div>
+        <table>
+            <tr>
+                @foreach (var imgBytes in Model.AdImages)
+	            {
+                    if(imgBytes.Length>0)
+                    {
+                     var data = Convert.ToBase64String(imgBytes);
+	             	 <td><img style="height:100px;width:100px;" src="data:image/png;base64,@data" /></td>
+                    }
+	            }
+                
+            </tr>
+        </table>
+    </div>
+    <div>
+          @Html.ActionLink("Contact Owner", "Contact", "Ad", new { adid = Model.AdId }, null)
+    </div>
+</fieldset>

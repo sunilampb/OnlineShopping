@@ -1,0 +1,11 @@
+﻿@model Olx.Models.AdModel
+
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+<br />
+@Html.Partial("AdBanner", Model)
+

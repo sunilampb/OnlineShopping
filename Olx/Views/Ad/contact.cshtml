@@ -1,0 +1,48 @@
+﻿@model Olx.Models.ContactModel
+
+@{
+    ViewBag.Title = "contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Contact Owner</h2>
+<br />
+<br />
+@using (Html.BeginForm("contact","ad")) {
+
+    <fieldset>
+        <legend>Contact Model</legend>
+        @Html.HiddenFor(m => m.AdId)
+        @Html.HiddenFor(m => m.UserId)
+        <div class="editor-field" style="font-weight:bold;">
+            @Html.DisplayFor(model => model.AdTitle)
+            @Html.ValidationMessageFor(model => model.AdTitle)
+        </div>
+        <br />
+        <br />
+        <div class="editor-field" >
+           <span style="font-weight:bold;">To : </span> 
+            @Html.DisplayFor(model => model.To)
+            @Html.ValidationMessageFor(model => model.To)
+        </div>
+        <br />
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Message)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.Message)
+            @Html.ValidationMessageFor(model => model.Message)
+        </div>
+
+        <p>
+            <input type="submit" value="Send Message" />
+        </p>
+    </fieldset>
+    <p>
+        @ViewBag.Message;
+    </p>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

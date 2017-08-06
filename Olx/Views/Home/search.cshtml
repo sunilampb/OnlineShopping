@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model Olx.Models.SearchModel
+<style>
+    td {
+        height: 4px;
+        width: inherit;
+        padding: 2px;
+    }
+</style>
+<h2>Search Ads</h2>
+<div>
+    @using(Html.BeginForm("search"))
+    {
+    @Html.TextBoxFor(m=>m.SearchTerm, new { @class = "searchBox" })
+    <input type="submit" value="Search" />
+    <table>
+        <tr>
+            <td>Category</td>
+            <td>
+                @{
+                    var catList = new List<SelectListItem>();
+                    catList.Add(new SelectListItem { Text = "Any", Value = "0", Selected = true });
+                    foreach (var cat in Olx.Models.Static.GetCategories())
+                    {
+                        catList.Add(new SelectListItem { Text = cat.CategoryName, Value = cat.CategoryId.ToString() });
+                    }
+                }
+                @Html.DropDownListFor(model => model.CategoryId, catList, new { @class = "dropdown2" })
+            </td>
+            <td>City
+            </td>
+            <td>
+                @Html.DropDownListFor(model => model.City, new SelectList(Olx.Models.Static.Cities()), new { @class = "dropdown2" })
+            </td>
+            <td>Locality</td>
+            <td>@Html.TextBoxFor(model => model.Locality, new { @class = "smalltext" })</td>
+            <td>Sort By</td>
+            <td>@Html.DropDownListFor(m => m.SortBy, new SelectList(Olx.Models.Static.SortByItems()), new { @class = "dropdown2" })</td>
+            <tr />
+        <tr>
+            <td>Price From</td>
+            <td>@Html.DropDownListFor(m => m.PriceLow, new SelectList(Olx.Models.Static.PriceRange()), new { @class = "dropdown2" })</td>
+            <td>Price To</td>
+            <td>@Html.DropDownListFor(m => m.PriceHigh, new SelectList(Olx.Models.Static.PriceRange().Skip(1)), new { @class = "dropdown2" })</td>
+        </tr>
+    </table>
+    }
+</div>
+<div>
+    <br />
+    @foreach (var ad in Model.Ads)
+    {
+        @Html.Partial("AdBanner", ad)
+    }
+</div>

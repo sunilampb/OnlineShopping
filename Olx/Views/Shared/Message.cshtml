@@ -1,0 +1,46 @@
+﻿@model DataLayer.DTO.Message
+
+@{
+    var msgId = "msg" + Model.MessageId;
+    var replyBtnId = "reply" + Model.MessageId;
+    var targetId = "target" + Model.MessageId;
+}
+<style>
+    form {
+        display:inline;
+    }
+    span {
+        font-weight:bold;
+    }
+</style>
+<div id="@msgId" style="width: 450px; border: solid thin black; padding: 3px;">
+    <div style="border-bottom: solid thin black; padding: 3px;">
+        <span>About</span> : @Model.AdTitle
+    </div>
+    <div style="border-bottom: solid thin black; padding: 3px;">
+        @Model.MessageText
+
+    </div>
+    <div>
+        <span>From</span>: @Model.From
+        <span>sent on </span>@Model.MessageDate.ToShortDateString()
+
+        @using (Ajax.BeginForm("messagebox", "home", new { adid = Model.AdId, toUserId = Model.ToUserId, msgId=Model.MessageId }, new AjaxOptions
+        {
+            UpdateTargetId = targetId,
+            HttpMethod = "POST"
+        }))
+        {
+            <input id="@replyBtnId" type="submit" value="Reply" style="margin-left: 190px;
+                                                                        height: 22px;
+                                                                        width: 60px;
+                                                                        background-color: blue;
+                                                                        color: white;
+                                                                        padding: 0px;
+                                                                        font-size: 10pt;">
+        }
+    </div>
+    <div id="@targetId">
+    </div>
+</div>
+

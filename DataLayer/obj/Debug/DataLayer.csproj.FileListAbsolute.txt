@@ -1,0 +1,10 @@
+C:\Olx\AuctionGuru\DataLayer\bin\Debug\DataLayer.dll
+C:\Olx\AuctionGuru\DataLayer\bin\Debug\DataLayer.pdb
+C:\Olx\AuctionGuru\DataLayer\obj\Debug\DataLayer.dll
+C:\Olx\AuctionGuru\DataLayer\obj\Debug\DataLayer.pdb
+C:\Olx\AuctionGuru\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\ajay\AuctionGuru\DataLayer\bin\Debug\DataLayer.dll
+D:\ajay\AuctionGuru\DataLayer\bin\Debug\DataLayer.pdb
+D:\ajay\AuctionGuru\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\ajay\AuctionGuru\DataLayer\obj\Debug\DataLayer.dll
+D:\ajay\AuctionGuru\DataLayer\obj\Debug\DataLayer.pdb
